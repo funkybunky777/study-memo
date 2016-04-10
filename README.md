@@ -5,3 +5,4 @@ bunch of paragraph for study
 
 1. [최적화](code_craft/optimize.md) (2016/04/09)
 2. [보안](code_craft/security.md) (2016/04/09)
+3. [방어적 프로그래밍](code_craft/defensive_programming.md) (2016/04/10)
