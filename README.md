@@ -7,6 +7,7 @@ bunch of paragraph for study
 2. [보안](code_craft/security.md) (2016/04/09)
 3. [방어적 프로그래밍](code_craft/defensive_programming.md) (2016/04/10)
 4. [네이밍](code_craft/naming.md) (2016/04/10)
+5. [코드 설계](code_craft/code_architecture.md) (2016/04/15)
 
 ## 강연
 
