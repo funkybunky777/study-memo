@@ -12,6 +12,7 @@ bunch of paragraph for study
 ## 강연
 
 1. [서비스 확장전략](seminar/service_expand.md) (2016/04/12)
+2. [성능 테스트](seminar/performance_testing.md) (2016/04/19)
 
 ## 데이터베이스
 
