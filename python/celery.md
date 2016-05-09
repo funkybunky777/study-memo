@@ -26,3 +26,8 @@ init_app을 통해 선언 이후에 초기화 해야한다면, 아래와 같이 
 * `socketio = SocketIO(async_mode=async_mode, ping_timeout=15)`
 
 * `socketio.init_app(app, message_queue=app.config['SOCKETIO_REDIS_URL'])`
+
+## 참조
+
+* [Flask, flask-socketio, Celery, and redis: background tasks](http://celeodor.com/2016/02/19/flask-flask-socketio-and-redis-task-queue/)
+* [Flask-socketio Document](http://flask-socketio.readthedocs.io/en/latest/)
