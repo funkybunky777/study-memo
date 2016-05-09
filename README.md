@@ -20,7 +20,7 @@ bunch of paragraph for study
 
 ## Python
 
-1. [Celery](python/celery.md)
+1. [Celery](python/celery.md) (2016/05/09)
 
 ## WEB
 
