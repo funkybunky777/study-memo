@@ -21,3 +21,11 @@ bunch of paragraph for study
 ## Python
 
 1. [Celery](python/celery.md)
+
+## WEB
+
+1. [AngularJS](web/AngularJS.md) (2016/04/26)
+
+## ELK
+
+1. [USECASE NETFLIX](elk/usercase/netflix.md) (2016/05/04)
