@@ -17,3 +17,7 @@ bunch of paragraph for study
 ## 데이터베이스
 
 1. [PostgreSQL](database/postgresql.md) (2016/04/18)
+
+## Python
+
+1. [Celery](python/celery.md)
