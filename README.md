@@ -33,3 +33,4 @@ bunch of paragraph for study
 ## Security
 
 1. [Penetration Testing](security/penetration_testing.md) (2016/05/11)
+2. [Vulnerabilities Detection](security/vulnerabilities_detection.md) (2016/05/12)
